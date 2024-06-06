@@ -20,9 +20,9 @@ This goal is no small task! The following broad-steps should allow the goal to b
 
 This type of goal will take a lot of hard work, and I am unsure of the actual approach to the technical details of the development, but what I do know is the final outcome: a polished KDE Plasma that welcomes new and current users with familiarity.<br>
 
-I could lead this, but I could not implement it myself. Since I am limited technically, this goal would need a lot of support from the developer community in order for it to work. A preliminary idea of how project management could be outlines with a few different teams; for example:
+I could lead this, but I could not implement it myself. Since I am limited technically, this goal would need a lot of support from the developer community in order for it to work. The following is a preliminary idea of how the organization of the project's management could be:
 
-1. UI/UX policy & guide/team
+1. UI/UX policy & guide team
 2. Application developer/team
 3. Plasma component developer/team
 4. Input method (e.g., touch-mode, etc.) developer/team
