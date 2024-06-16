@@ -12,7 +12,7 @@ The following example outlines a starting point on how to get to a comprehensive
 
 ## Adaptive rules
 
-1. These rules keep in my the **device or input type**; e.g., touch-input.
+1. These rules keep in mind the **device or input type**; e.g., touch-input.
 2. To be determined...
 3.
 
